@@ -6,7 +6,7 @@ const Selection = (props)=>
 {
     // console.log(props.key );
     // console.log(props.applyColor);
-   const {key}  = props;
+//    const {key}  = props;
    const {applyColor} = props;
   
     //console.log(props);
