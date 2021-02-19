@@ -10,7 +10,7 @@ const Selection = (props)=>
    const {applyColor} = props;
   
     //console.log(props);
-    const[Component_state , setComponent_state]  = useState({background:''});
+    const[Component_state , setComponent_state]  = useState({background:""});
   // console.log( nextBackground);
    
     return (
